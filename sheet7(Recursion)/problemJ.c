@@ -17,3 +17,4 @@ int n;
 scanf("%d", &n);
 num(1,n,1);
 }
+
